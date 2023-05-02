@@ -1,0 +1,31 @@
+h5{
+    background-color: yellowgreen;
+}
+.list1
+{
+    color: brown;
+}
+.j
+{
+    color: aqua;
+}
+.bt
+{
+    color: brown;
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.user
+{
+    color:black;
+    background-color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+}
+.pass
+{
+    color:forestgreen;
+    background-color: rgb(226, 43, 43);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+}
